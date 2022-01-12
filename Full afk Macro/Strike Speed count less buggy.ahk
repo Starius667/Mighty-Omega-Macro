@@ -29,7 +29,7 @@ loop,
 		}
 		Sleep 1100
 		Send {Click, Right}
-		Sleep 1100
+		Sleep 1150
 	}
 	Send {Click}
 	Sleep 1100
